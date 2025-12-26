@@ -1,0 +1,51 @@
+body {
+text-align: center;
+}
+
+section {
+color: #2b2b2b;
+font-family: cursive;
+text-align: center;
+}
+
+.items {
+text-decoration: none;
+color: white;
+font-family: cursive;
+font-size: 20px;
+}
+
+.items:hover {
+font-size: 25px;
+text-decoration: none;
+color: white;
+}
+
+h1 {
+font-variant: small-caps;
+font-size: 25px;
+text-decoration: underline;
+text-decoration-color: orange;
+text-decoration-style: wavy;
+} 
+
+#Gallery {
+margin: 100px;
+background-color: orange;
+width: 1285px;
+}
+
+.gallery-items {
+margin: 5px;
+}
+
+#myCarousel1 img { 
+height: 300px; 
+margin-top: 35px; 
+}
+
+.carousel-inner p { 
+margin-top: 15px; 
+color : white; 
+font-size: 20px; 
+}
